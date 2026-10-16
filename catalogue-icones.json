@@ -1,0 +1,389 @@
+{
+  "format": "av-studio-icons",
+  "version": 1,
+  "id": "dgts_icons",
+  "name": "Catalogue d'icônes",
+  "catalogVersion": "2026-10-16",
+  "libraries": [
+    {
+      "id": "lib001",
+      "name": "DGTS"
+    }
+  ],
+  "icons": [
+    {
+      "id": "lib001-3dicons-video-camera-front-color-1",
+      "name": "3dicons-video-camera-front-color-1",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "3dicons-video-camera-front-color-1.svg",
+      "type": "icon",
+      "src": "3dicons-video-camera-front-color-1.svg"
+    },
+    {
+      "id": "lib001-3dicons-video-camera-front-color",
+      "name": "3dicons-video-camera-front-color",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "3dicons-video-camera-front-color.svg",
+      "type": "icon",
+      "src": "3dicons-video-camera-front-color.svg"
+    },
+    {
+      "id": "lib001-ampoule-1",
+      "name": "Ampoule-1",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Ampoule-1.svg",
+      "type": "icon",
+      "src": "Ampoule-1.svg"
+    },
+    {
+      "id": "lib001-ampoule",
+      "name": "Ampoule",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Ampoule.svg",
+      "type": "icon",
+      "src": "Ampoule.svg"
+    },
+    {
+      "id": "lib001-icone-hdmi-1",
+      "name": "Icone HDMI-1",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Icone HDMI-1.svg",
+      "type": "icon",
+      "src": "Icone%20HDMI-1.svg"
+    },
+    {
+      "id": "lib001-icone-hdmi",
+      "name": "Icone HDMI",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Icone HDMI.svg",
+      "type": "icon",
+      "src": "Icone%20HDMI.svg"
+    },
+    {
+      "id": "lib001-icone_byod",
+      "name": "Icone BYOD",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Icone_BYOD.svg",
+      "type": "icon",
+      "src": "Icone_BYOD.svg"
+    },
+    {
+      "id": "lib001-icone_clickshare-1",
+      "name": "Icone ClickShare-1",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Icone_ClickShare-1.svg",
+      "type": "icon",
+      "src": "Icone_ClickShare-1.svg"
+    },
+    {
+      "id": "lib001-icone_clickshare",
+      "name": "Icone ClickShare",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Icone_ClickShare.svg",
+      "type": "icon",
+      "src": "Icone_ClickShare.svg"
+    },
+    {
+      "id": "lib001-icone_conseil",
+      "name": "Icone conseil",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Icone_conseil.svg",
+      "type": "icon",
+      "src": "Icone_conseil.svg"
+    },
+    {
+      "id": "lib001-icone_démo",
+      "name": "Icone démo",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Icone_démo.svg",
+      "type": "icon",
+      "src": "Icone_d%C3%A9mo.svg"
+    },
+    {
+      "id": "lib001-icone_formation",
+      "name": "Icone formation",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Icone_formation.svg",
+      "type": "icon",
+      "src": "Icone_formation.svg"
+    },
+    {
+      "id": "lib001-icone_pupitre",
+      "name": "Icone pupitre",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Icone_pupitre.svg",
+      "type": "icon",
+      "src": "Icone_pupitre.svg"
+    },
+    {
+      "id": "lib001-icone_usb-c-1",
+      "name": "Icone USB-C-1",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Icone_USB-C-1.svg",
+      "type": "icon",
+      "src": "Icone_USB-C-1.svg"
+    },
+    {
+      "id": "lib001-icone_usb-c",
+      "name": "Icone USB-C",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Icone_USB-C.svg",
+      "type": "icon",
+      "src": "Icone_USB-C.svg"
+    },
+    {
+      "id": "lib001-logo_microsoft_teams_(2025)-1",
+      "name": "Logo Microsoft Teams (2025).svg 1",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Logo_Microsoft_Teams_(2025).svg 1.svg",
+      "type": "icon",
+      "src": "Logo_Microsoft_Teams_(2025).svg%201.svg"
+    },
+    {
+      "id": "lib001-loupe-+-1",
+      "name": "Loupe +-1",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Loupe +-1.svg",
+      "type": "icon",
+      "src": "Loupe%20%2B-1.svg"
+    },
+    {
+      "id": "lib001-loupe-+",
+      "name": "Loupe +",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Loupe +.svg",
+      "type": "icon",
+      "src": "Loupe%20%2B.svg"
+    },
+    {
+      "id": "lib001-loupe---1",
+      "name": "Loupe --1",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Loupe --1.svg",
+      "type": "icon",
+      "src": "Loupe%20--1.svg"
+    },
+    {
+      "id": "lib001-loupe--",
+      "name": "Loupe -",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Loupe -.svg",
+      "type": "icon",
+      "src": "Loupe%20-.svg"
+    },
+    {
+      "id": "lib001-retour-1",
+      "name": "Retour-1",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Retour-1.svg",
+      "type": "icon",
+      "src": "Retour-1.svg"
+    },
+    {
+      "id": "lib001-retour",
+      "name": "Retour",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Retour.svg",
+      "type": "icon",
+      "src": "Retour.svg"
+    },
+    {
+      "id": "lib001-vector-1",
+      "name": "Vector-1",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Vector-1.svg",
+      "type": "icon",
+      "src": "Vector-1.svg"
+    },
+    {
+      "id": "lib001-vector-10",
+      "name": "Vector-10",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Vector-10.svg",
+      "type": "icon",
+      "src": "Vector-10.svg"
+    },
+    {
+      "id": "lib001-vector-11",
+      "name": "Vector-11",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Vector-11.svg",
+      "type": "icon",
+      "src": "Vector-11.svg"
+    },
+    {
+      "id": "lib001-vector-2",
+      "name": "Vector-2",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Vector-2.svg",
+      "type": "icon",
+      "src": "Vector-2.svg"
+    },
+    {
+      "id": "lib001-vector-3",
+      "name": "Vector-3",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Vector-3.svg",
+      "type": "icon",
+      "src": "Vector-3.svg"
+    },
+    {
+      "id": "lib001-vector-4",
+      "name": "Vector-4",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Vector-4.svg",
+      "type": "icon",
+      "src": "Vector-4.svg"
+    },
+    {
+      "id": "lib001-vector-5",
+      "name": "Vector-5",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Vector-5.svg",
+      "type": "icon",
+      "src": "Vector-5.svg"
+    },
+    {
+      "id": "lib001-vector-6",
+      "name": "Vector-6",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Vector-6.svg",
+      "type": "icon",
+      "src": "Vector-6.svg"
+    },
+    {
+      "id": "lib001-vector-7",
+      "name": "Vector-7",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Vector-7.svg",
+      "type": "icon",
+      "src": "Vector-7.svg"
+    },
+    {
+      "id": "lib001-vector-8",
+      "name": "Vector-8",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Vector-8.svg",
+      "type": "icon",
+      "src": "Vector-8.svg"
+    },
+    {
+      "id": "lib001-vector-9",
+      "name": "Vector-9",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Vector-9.svg",
+      "type": "icon",
+      "src": "Vector-9.svg"
+    },
+    {
+      "id": "lib001-vector",
+      "name": "Vector",
+      "libraryKey": "lib001",
+      "libraryName": "DGTS",
+      "category": "Custom",
+      "subcategory": "Non classées",
+      "filename": "Vector.svg",
+      "type": "icon",
+      "src": "Vector.svg"
+    }
+  ]
+}
